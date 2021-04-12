@@ -40,7 +40,10 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
