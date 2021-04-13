@@ -48,6 +48,12 @@ git log==
 git reset==
 git push ==
 
+q, jump out==
+pwd, pathway==
+mkdir blog==
+
+
+
 use key to connect ?
 create a new repository in github==
 clone or download==
